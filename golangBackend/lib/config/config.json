@@ -1,0 +1,19 @@
+{
+  "name": "go-mongo",
+  "env": "local",
+  "host": {
+    "address": "0.0.0.0",
+    "port": 10000
+  },
+  "database": {
+    "mongodb": {
+      "prefix": "mongodb+srv",
+      "timeout": 5000,
+      "host": "bookus0.4yn8c.mongodb.net/BookUs?retryWrites=true&w=majority",
+      "port": "",
+      "dbname": "servicesDB",
+      "user": "user1",
+      "password": "pin123"
+    }
+  }
+}

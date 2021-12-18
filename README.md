@@ -4,3 +4,4 @@
 ### Backend Repo [golangbackend](https://github.com/M0-AR/golangBackend)
 
 ### [link2-netlify](https://book-us.netlify.app/), the backend service is off.
+### Report [devops_project.pdf](devops_project.pdf)
